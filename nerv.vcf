@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Nervhotlines12.22
-N:;Nervhotlines12.22;;;
+FN:Nervhotlines01.23
+N:;Nervhotlines01.23;;;
 item1.TEL:017688814777
 item1.X-ABLabel:O2
 item2.TEL:08007246843 
@@ -24,7 +24,7 @@ item10.TEL:01721279162
 item10.X-ABLabel:Vodafone
 item11.TEL:08005001144
 item11.X-ABLabel:Blau
-item12.TEL:0172127 23
+item12.TEL:017212723
 item12.X-ABLabel:Vodafone
 item13.TEL:0176 88854892
 item13.X-ABLabel:O2
@@ -230,5 +230,17 @@ item113.TEL:0176 88854912
 item113.X-ABLabel:
 item114.TEL:0176 88854978
 item114.X-ABLabel:
+item115.TEL:0172 1279188
+item115.X-ABLabel:
+item116.TEL:0221 79700200
+item116.X-ABLabel:
+item117.TEL:0176 88854793
+item117.X-ABLabel:
+item118.TEL:0800 3004088
+item118.X-ABLabel:
+item119.TEL:0172 1279188
+item119.X-ABLabel:
+item120.TEL:0221 79700200
+item120.X-ABLabel:
 CATEGORIES:myContacts
 END:VCARD
